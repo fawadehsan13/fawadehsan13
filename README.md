@@ -6,13 +6,16 @@ fawad_ehsan@hotmail.com
 FAWAD EHSAN	
 
 OBJECTIVE	A leadership position providing business solutions through information technology, utilizing my industry and academic experience, and permitting the expansion of my technical and functional skills.
-PROFESSIONAL EXPERIENCE	o	Sr.Software Engineer 
+PROFESSIONAL EXPERIENCE	
+Full Stack Developer
+
 	Tech United USA.                             (05/2022– To Date)
 	2B Vision Technologies Lahore, Pakistan.     (10/2021– 4/2022)
 	Cyber Soft (Pvt) Ltd.Lahore, Pakistan.       (03/2012 To 09/2021)
 
 
 RELEVANT PROJECTS	
+
  Laboratory Information Management System (LIMS)
 o	It is USA based project a comprehensive LIMS & CRM for infectious
 Disease,COVID-19,PGx,Toxicology,Hematology and more in one plate
