@@ -9,8 +9,8 @@ OBJECTIVE	A leadership position providing business solutions through information
 PROFESSIONAL EXPERIENCE	o	Sr.Software Engineer 
 	Tech United USA.                             (05/2022– To Date)
 	2B Vision Technologies Lahore, Pakistan.     (10/2021– 4/2022)
-	Cyber Soft (Pvt) Ltd.Lahore, Pakistan.       (04/2007 To 09/2021)
-	Saga Sports Sialkot, Pakistan.               (09/2005 To 04/2007)
+	Cyber Soft (Pvt) Ltd.Lahore, Pakistan.       (03/2012 To 09/2021)
+
 
 RELEVANT PROJECTS	
  Laboratory Information Management System (LIMS)
