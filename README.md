@@ -87,7 +87,7 @@ It is a single application that is used for the entire work cycle of the company
 10-MicroService
 
 **Education Portal**
-It is  Saudia Arabia  based project and Education Portal is used by the Saudia Arabia,UAE,Egypt  clients to keep records of the students studying in various schools. 
+It is  Saudia Arabia  based project and Education Portal is used by the **Saudia Arabia,UAE,Egypt**  clients to keep records of the students studying in various schools. 
 This centralized database is used for policy making regarding the education. It keeps track for the grants given to schools from the government, along with 
 the information all schools along with the support staff.
 
@@ -105,7 +105,7 @@ the information all schools along with the support staff.
 11-PostgreSQL
 
 **Laboratory Information Management System (LIMS)** 
-Developed LIMS in a 2B Visions Technologies. USA based this project is a comprehensive LIMS & CRM for infectious disease,COVID-19,PGx,Toxicology,
+Developed LIMS in a 2B Visions Technologies. **USA based** this project is a comprehensive LIMS & CRM for infectious disease,COVID-19,PGx,Toxicology,
 Hematology and more in one plateForm. This software makes labs more efficient and productive by gathering an enormous amount of diverse 
 laboratory data into a centralized location for record keeping and analysis
 
@@ -123,7 +123,7 @@ laboratory data into a centralized location for record keeping and analysis
 11- Java Script
 
 **Production Planning And Control System (NIKE BRAND)**
-Football production planning is USA based  (Nike brand) project developed in SAGA Sprots in which the process of the football production developed.
+Football production planning is **USA based ** (Nike brand) project developed in SAGA Sprots in which the process of the football production developed.
 Lamination sheets prepared for footballs panels. After laminated  these sheets processed for trimming. After trimming these sheets processed the 
 cutting department for cutting the sheets. Finally cutting sheets processed to the panel sorting section for sorting the panels.
 
@@ -160,7 +160,7 @@ which lost during the process of repair, noted in the RLNNO (Repair Lost Note).
 10- MicroService
 
 **Hospital Management System**
-Canadian based Hospital Management System developed in HanCom Technologies based on a concept of recording patient records and their 
+**Canadian based** Hospital Management System developed in HanCom Technologies based on a concept of recording patient records and their 
 diagnosis information. Before stepping into the main system a user has to pass through a login system to get access, then only the 
 user can add a new patient record, diagnosis information and check the full history of the patient.
 
