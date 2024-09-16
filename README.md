@@ -10,11 +10,12 @@ OBJECTIVE	A leadership position providing business solutions through information
 PROFESSIONAL EXPERIENCE	(Clients Project Experience)
 
 Full Stack Developer
-	Tech United USA.                             
-	2B Vision Technologies  
- HanCom Technologies
- SAGA Sports
- Cybersoft USA.
+ VisonTech Canada
+	Tech United USA                             
+	2B Vision Technologies  USA
+ HanCom Technologies Canada
+ SAGA Sports 
+ Cybersoft USA
 
 RELEVANT PROJECTS	
 
