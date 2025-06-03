@@ -10,14 +10,48 @@ OBJECTIVE	A leadership position providing business solutions through information
 PROFESSIONAL EXPERIENCE	(Clients Project Experience)
 
 Full Stack Developer
- VisonTech Canada
-	Tech United USA                             
-	2B Vision Technologies  USA
- HanCom Technologies Canada
- SAGA Sports 
- Cybersoft USA
+ VisonTech Canada #
+	Tech United USA #                             
+	2B Vision Technologies  USA #
+ HanCom Technologies Canada #
+ SAGA Sports # 
+ Cybersoft USA #
 
 RELEVANT PROJECTS	
+**Personal Expense Tracker**
+
+The Personal Expense Tracker is a command-line Python application that allows users to track and manage their daily expenses. This project is designed to help users understand how to build a real-world application using basic to intermediate Python concepts, with a focus on data handling, user input, file management, and simple reporting.
+
+Key Features:
+Add Expense Entries
+Users can input daily expenses by entering the date, category (e.g., food, travel, utilities), amount, and description.
+View Expense History
+Users can view all previous expense records in a readable format sorted by date.
+Search by Category or Date
+Allows filtering expenses by category or date to help users analyze spending patterns.
+Monthly Summary Report
+Calculates total expenses for the current month and breaks them down by category.
+Persistent Data Storage
+Uses a CSV file or JSON file to save and load expense records, so the data is not lost between program runs.
+**Technical Details:**
+**Language: Python 3.x**
+**Libraries Used:**
+**datetime (for date management)**
+**csv or json (for file handling)**
+**os (optional, for file path management)**
+**Structure: Modular code with functions for each major feature (e.g., add_expense(), view_history(), generate_report()).**
+
+**Learning Objectives:**
+Practice basic programming constructs (loops, conditionals, functions)
+Gain experience with file I/O (reading/writing CSV or JSON)
+Understand how to structure a simple CLI application
+Gain experience with debugging and user input validation
+
+**Optional Enhancements (Advanced):**
+Add a graphical user interface (GUI) using Tkinter
+Integrate SQLite or another database for better data management
+Export reports to a PDF or Excel file using reportlab or openpyxl
+
 
 **Bonita Conservative Club**
 This project is developed  in TechUnited. Bonita Conservative Club **USA based project** , try and bring focus to civil and logical conversations based on
