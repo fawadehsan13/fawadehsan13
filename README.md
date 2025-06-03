@@ -17,7 +17,8 @@ Full Stack Developer
  SAGA Sports # 
  Cybersoft USA #
 
-RELEVANT PROJECTS	
+******RELEVANT PROJECTS**	****
+
 **Personal Expense Tracker**
 
 The Personal Expense Tracker is a command-line Python application that allows users to track and manage their daily expenses. This project is designed to help users understand how to build a real-world application using basic to intermediate Python concepts, with a focus on data handling, user input, file management, and simple reporting.
