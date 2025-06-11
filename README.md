@@ -53,8 +53,44 @@ Add a graphical user interface (GUI) using Tkinter
 Integrate SQLite or another database for better data management
 Export reports to a PDF or Excel file using reportlab or openpyxl
 
+***********Multi-Tenant SaaS Platform for HR & Workforce Management**************
+This is USA based project.Led the architecture and development of a multi-tenant SaaS platform using ASP.NET Core 6, designed to help small and mid-sized companies manage their employees, schedules, leave policies, and payroll processing.
 
-**Bonita Conservative Club**
+This enterprise-level solution was built with modular microservices, role-based access control, and integrated Stripe billing for subscription management. The platform supports white-label customization, audit logging, and real-time notifications via SignalR.
+
+The system was deployed using Azure App Services, Key Vault, and Azure SQL, with scalable infrastructure and zero-downtime updates through blue-green deployments.
+
+***Technology Stack****
+Backend: ASP.NET Core 6 Web API, Clean Architecture
+Frontend (Optional): Blazor Server + Tailwind CSS
+Database: Azure SQL + Entity Framework Core + Redis Cache
+Identity & Security: IdentityServer4, JWT, OAuth 2.0, Azure B2C
+Billing: Stripe Integration with webhook-based event processing
+Multi-Tenancy: Custom tenant resolution via subdomain and token claims
+Real-Time: SignalR for live HR notifications (e.g., leave approvals, clock-ins)
+Cloud: Azure App Services, Azure Storage, Azure Key Vault, Application Insights
+DevOps: GitHub Actions + Bicep templates for infrastructure as code
+
+***Key Responsibilities & Highlights***
+
+ Architected a multi-tenant design with tenant isolation at both data and logic levels.
+ Implemented modular service layers (HR, Payroll, Leave, Attendance) using Clean Architecture and CQRS with MediatR.
+ Integrated Stripe for recurring billing and in-app plan upgrades, handling webhook events and retries.
+ Designed and enforced role-based access using ASP.NET Core Identity and Claims-based authorization.
+ Developed real-time alerting using SignalR, allowing admins to monitor live attendance and receive leave notifications.
+ Built automated PDF reports for payroll summaries and employee evaluations using the iTextSharp library.
+ Wrote unit and integration tests (xUnit + FluentAssertions) for core services and controller layers.
+ Managed deployment via GitHub Actions with blue-green rollouts and monitored production with Application Insights.
+
+**Results & Business Impact**
+
+ Onboarded over 50 clients across 10 countries within the first 3 months of launch.
+ Achieved 95% user satisfaction based on UX, speed, and reporting features.
+ Handled over 100,000 payroll records/month with optimized batch processing.
+ Enabled effortless scaling across tenants with isolated databases and shared app service plans.
+ 
+*********Bonita Conservative Club******
+
 This project is developed  in TechUnited. Bonita Conservative Club **USA based project** , try and bring focus to civil and logical conversations based on
 tried and tested protocols. The simple fact is that on a fair platform, truth wins and on an unfair platform, lies get the upper hand.
 
