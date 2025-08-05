@@ -1,4 +1,4 @@
-Township
+PGECHS
 Lahore. Pakistan.	Cell:0301-6114457 
 fawad_ehsan@hotmail.com
 
@@ -91,55 +91,73 @@ DevOps: GitHub Actions + Bicep templates for infrastructure as code
  
 *********Bonita Conservative Club******
 
-This project is developed  in TechUnited. Bonita Conservative Club **USA based project** , try and bring focus to civil and logical conversations based on
-tried and tested protocols. The simple fact is that on a fair platform, truth wins and on an unfair platform, lies get the upper hand.
+Recently, I worked with **TechUnited** on a USA-based project for the **Bonita Conservative Club**, focused on building and maintaining a custom CRM system designed to support civil and logical conversations around tested protocols and fair platform practices. The system's objective was to foster meaningful engagement and transparency — operating under the belief that on a fair platform, truth ultimately prevails, while unfair systems give rise to misinformation.
 
-**Below Technologies used in the above project**
+The CRM platform was built using **Angular 11** on the frontend and **ASP.NET Core Web API** on the backend, with **MS SQL Server** powering the database. It was deployed and managed using **Azure cloud infrastructure**, with **GitHub** used for source control, issue tracking, and CI/CD workflows.
 
-1- AWS Cloud, 
-2- Azure App Serives ,
-3- JQuery,
-4- JavaScript,
-5- HTML5,
-6- C#,
-7- Asp.net web API,
-8- Asp.net MVC,
-9- Asp.net Core,
-10-API Integration, 
-11-Microsoft SQL Server
+### Key Areas of My Contribution:
 
-**Quality Velocity**
-Developed this project in the Tech United Quality Velocity **USA based project** go the extra mile to combine proven methodologies.Get something off the ground and rise the bar of business.
-The velocity/quality conversation comes up at some point.The need to cut corners on quality to deliver more features (thus increased velocity) is due to factors like faster time to market, launching ahead of the competition or delivering functionalities more frequently for customers. Organizations also reduce velocity by increasing the development timeline to build more stable and quality products.
+* **Frontend (Angular 11):**
 
-**Below Technologies used in the above project**
-1- Microsoft Azure,
-2- JQuery,
-3- JavaScript,
-4- HTML5,
-5- C#,
-6- Asp.net web API,
-7- Asp.net MVC,
-8- Asp.net Core,
-9-API Integration, 
-10-Microsoft SQL Server
-11- MicroService
+  * Fixed UI/UX bugs involving reactive forms, validation messages, and performance delays in complex modules like pipelines and filters.
+  * Improved user interface responsiveness and implemented minor feature enhancements, such as real-time notifications and advanced filtering options.
 
-**LANTOPIA**
+* **Backend (ASP.NET Core Web API):**
+
+  * Debugged business logic related to task assignments, user role management, and contact syncing.
+  * Optimized API endpoints and database queries, improving system performance and reducing response times across key modules.
+
+* **Database (MS SQL Server):**
+
+  * Resolved issues around duplicated or inconsistent data records.
+  * Designed and updated stored procedures and views to support new reporting features.
+
+* **DevOps & Cloud Tools:**
+
+  * Used **GitHub** for version control and collaborative code reviews.
+  * Integrated automated deployment pipelines using **GitHub Actions** and deployed services via **Microsoft Azure**, ensuring smooth rollouts with minimal downtime.
+
+This project required not only strong technical skills but also an understanding of the client’s mission: providing a platform grounded in fairness, logic, and constructive dialogue. It was rewarding to contribute to a system built to enable honest conversations in a time where platform integrity truly matters.
+
+***********************Quality Velocity************************************
+Quality Velocity is a USA-based enterprise solution developed by TechUnited, designed to help businesses strike the right balance between development speed (velocity) and product quality. The goal was to deliver a platform that enables teams to accelerate feature delivery without compromising long-term system stability — a challenge many modern organizations face in today’s fast-paced digital environment.
+
+The project was architected using modern full-stack technologies with a focus on scalability, maintainability, and performance.
+
+ Tech Stack & Tools:
+Frontend: Angular (v12+), HTML5, TypeScript, SCSS
+
+Backend: ASP.NET Core Web API (C#), Microservice Architecture
+
+Database: Microsoft SQL Server with optimized stored procedures and indexing
+
+DevOps & Cloud: Microsoft Azure for hosting and services, GitHub for version control and CI/CD pipelines
+
+Integrations: RESTful API integration with external enterprise systems
+
+ Key Responsibilities and Features Delivered:
+Developed responsive and modular UI components in Angular to streamline user workflows and support rich interactions.
+
+Built and maintained scalable ASP.NET Core Web APIs, ensuring smooth communication between services using microservices architecture.
+
+Designed and optimized complex SQL Server queries to support high-performance data retrieval across analytical dashboards.
+
+Created configurable modules that allowed users to toggle between velocity-focused and quality-focused development modes, tailored to their business needs.
+
+Implemented Azure-based deployment pipelines, automated testing, and monitoring tools to maintain release stability.
+
+💡 Business Context:
+The "velocity vs. quality" conversation is a core theme of this platform. The system was designed to help organizations:
+
+Accelerate time-to-market while keeping software maintainable.
+
+Avoid technical debt accumulation through clean coding practices.
+
+Offer flexible release strategies — allowing users to prioritize either feature velocity or quality assurance based on market demands.
+
+By combining modern development technologies with proven agile methodologies, Quality Velocity empowers organizations to not only get projects off the ground faster but to raise the bar of business excellence in how they build and scale software.**LANTOPIA**
 Developed this project in the TechUnited **USA based project** LANTOPIA provides a complete set of IT offerings for products solutions,consultings,outsourcing system integration managed services, and software servies, to large corporations across all sectors including banking insurance,Retail, Telecom and manufacturing
 
-**Below Technologies used in the above project**
-1- AWS Cloud
-2- JQuery,
-3- JavaScript,
-4- HTML5,
-5- C#,
-6- Asp.net web API,
-7- Asp.net MVC,
-8- Asp.net Core,
-9- API Integration, 
-10-Microsoft SQL Server
-11-MicroService
 
 **Site One ERP Application **
 This is a USA based project developed in cybesoft.SiteOne ERP solution is an application that is used by the “John Deer” company in USA for managing the day-to-day application work. 
